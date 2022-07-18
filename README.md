@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Owen Nxumalo
 ### Application Development & Data Science
 Background:
-- mathematics & statistics
+- 🧮 mathematics & statistics
 
 Interests:
 - 👀 I’m interested in tech, finance, politics and sports
